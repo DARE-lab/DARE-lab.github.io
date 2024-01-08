@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
   font: native
   font_size: L
 
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2023} DARE. This work is licensed under {license}'
+    notice: '© {2024} DARE. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/DARE-lab/DARE'
+    url: 'https://github.com/DARE-lab/DARE-lab'
     content_dir: content
     branch: main
   avatar:
