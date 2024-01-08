@@ -1,21 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-01-07
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        DARE | Digital Archaeology Research Environment
       image:
-        filename: welcome.jpg
+        filename: icon.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **DARE** creates social and intellectual space to examine, build and develop anti-colonial, anti-racist digital and geospatial methods, tools, technologies, pedagogies, capacities, practices and policies, with particular focus on heritage and social sciences. We are located in the Arts and Sciences building at the University of British Columbia, Okanagan.
   
   - block: collection
     content:
