@@ -69,10 +69,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Neha Gupta is a professor of anthropology at DARE. Her research interests include geospatial and digital methods, postcolonial, decolonial, anti-colonial and Indigenous studies of heritage, anti-racism, data governance and archaeology in India and Canada. She leads DARE, which examines, builds and develops anti-colonial, anti-racist digital and geospatial methods, tools, technologies, pedagogies, policies and practices, particularly in heritage and social sciences research.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

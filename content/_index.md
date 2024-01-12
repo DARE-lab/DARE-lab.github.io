@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        DARE | Digital Archaeology Research Environment
+        Digital Archaeology Research Environment
       image:
         filename: icon.png
       text: |
