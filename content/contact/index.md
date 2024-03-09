@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        The DARE lab is located in the Arts and Science Building.
+        The DARE lab is located in the Arts and Science Building, on the unceded, ancestral lands of the syilx/Okanagan people
       email: neha(dot)gupta@ubc(dot)ca
       phone: 
       address:
