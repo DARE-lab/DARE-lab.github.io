@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **DARE** creates social and intellectual space to examine, build and develop anti-colonial, anti-racist digital and geospatial methods, tools, technologies, pedagogies, capacities, practices and policies, with particular focus on heritage and social sciences. We are located in the Arts and Sciences building at the University of British Columbia, Okanagan.
+        **DARE** creates social and intellectual space to examine, build and develop anti-colonial, anti-racist digital and geospatial methods, tools, technologies, pedagogies, capacities, practices and policies, with particular focus on heritage and social sciences. We are located in the Arts and Sciences building at the University of British Columbia, Okanagan, on the unceded, ancestral lands of the sylix/Okanagan people.
   
   - block: collection
     content:

@@ -15,7 +15,7 @@ role: Assistant Professor, Anthropology
 # Organizations/Affiliations
 organizations:
   - name: University of British Columbia, Okanagan
-    url: https://dngupta.github.io
+    url: 'https://dngupta.github.io'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include geovisualization and GIS, place-based heritage, data practice, community governance of data, anti-racism and archaeology in India and Canada.
@@ -64,13 +64,13 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
-  
+  - Researchers
 ---
 
 Neha Gupta is a professor of anthropology at DARE. Her research interests include geospatial and digital methods, postcolonial, decolonial, anti-colonial and Indigenous studies of heritage, anti-racism, data governance and archaeology in India and Canada. She leads DARE, which examines, builds and develops anti-colonial, anti-racist digital and geospatial methods, tools, technologies, pedagogies, policies and practices, particularly in heritage and social sciences research.
