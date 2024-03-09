@@ -6,8 +6,12 @@ title: Neha Gupta
 first_name: Neha
 last_name: Gupta
 
+# Username (this should match the folder name)
+authors:
+  - admin
+
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Assistant Professor, Anthropology
