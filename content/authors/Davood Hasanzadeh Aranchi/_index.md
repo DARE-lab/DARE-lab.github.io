@@ -18,7 +18,7 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of British Columbia, Okanagan
+  - name: University of British Columbia, Okanagan, Interdisciplinary Graduate Studies, Digital Arts and Humanities
     url: ''
     
 # Short bio (displayed in user profile at end of posts)
@@ -63,6 +63,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Student
+  - Grad Students
 ---
  
