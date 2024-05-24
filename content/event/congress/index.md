@@ -9,7 +9,7 @@ address:
   street: 
   city: Montreal
   region: Quebec
-  postcode: 
+  postcode: ''
   country: Canada
 
 summary: Paper on We See You - A Social Work Application of Critical Race Theory in Digital Mapping of Incidents of Hate and Discrimination

@@ -9,7 +9,7 @@ address:
   street: 
   city: Saskatoon
   region: SK
-  postcode: 
+  postcode: ''
   country: Canada
 
 summary: Session Organizer, Engaging Black and Racialized Descendant Communities with Archaeology and Heritage Projects, held at the Canadian Archaeological Association meetings, 2024
