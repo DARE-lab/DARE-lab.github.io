@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-01-01T00:00:00Z'
 
-authors: [Neha Gupta]
+authors: [Neha Gupta; Tommy Ng; John Simogyi]
 tags: [Anti-racism]
 
 # Is this a featured talk? (true/false)
@@ -35,10 +35,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: ''
-    icon_pack: ''
-    name: ''
-    url: ''
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/archaeomap
 url_code: ''
 url_pdf: ''
 url_slides: ''
