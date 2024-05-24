@@ -18,7 +18,7 @@ abstract: 'The participation of descendant communities is central to the design 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-05-03T10:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+#date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -57,5 +57,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - Anti-racism
+  - [Anti-racism]
 ---
