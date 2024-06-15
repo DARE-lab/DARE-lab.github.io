@@ -1,5 +1,5 @@
 ---
-title: Paper on We See You - A Social Work Application of Critical Race Theory in Digital Mapping of Incidents of Hate and Discrimination
+title: We See You - A Social Work Application of Critical Race Theory in Digital Mapping of Incidents of Hate and Discrimination
 
 event: Congress of the Humanities and Social Sciences 2024 Sustaining Shared Futures
 event_url: https://conference.caswe-acfts.ca/
@@ -17,12 +17,12 @@ abstract: 'This presentation will showcase a social work application of Critical
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-020T13:00:00Z'
-date_end: '2024-06-20T15:00:00Z'
+date: '2024-06-20T13:00:00Z'
+#date_end: '2024-06-20T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-01-01T00:00:00Z'
+publishDate: '2024-05-10T00:00:00Z'
 
 authors: [Shirley Chau; Neha Gupta; Shiva Natarajan]
 tags: [Anti-racism]
@@ -52,6 +52,6 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-  - [Anti-racism]
+  - Anti-racism
 ---
 

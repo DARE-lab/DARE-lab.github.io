@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-01-01T00:00:00Z'
 
-authors: [Neha Gupta; Tommy Ng; John Simogyi]
+authors: [Neha Gupta; Tommy Ng; John Somogyi]
 tags: [Anti-racism]
 
 # Is this a featured talk? (true/false)
@@ -57,5 +57,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - [Anti-racism]
+  - Anti-racism
 ---
