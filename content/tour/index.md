@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: uad.png
+            filename: no-motif.png
             filters:
               brightness: 0.7
           position: right
@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: Geospatial & Digital Methods
-        content: 'Just opened last month!'
+        content: ''
         align: right
         background:
           image:
