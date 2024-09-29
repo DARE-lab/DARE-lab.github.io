@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -30,6 +30,9 @@ interests:
 
 education:
   courses:
+    - course: PhD Interdisciplinary Studies
+      institution: University of British Columbia, Okanagan
+      year: 2024
     - course: MSc in Architectural Engineering
       institution: Imam Khomeini International University (IKIU), Qazvin, Iran
       year: 2013
@@ -64,5 +67,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Research Associates
+
 ---
  

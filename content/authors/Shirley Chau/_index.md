@@ -26,7 +26,6 @@ bio: coming soon
 
 interests:
   - Coming soon 
-  - Coming soon
 
 education:
   courses:
@@ -63,7 +62,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
   - Researchers
 ---
  
