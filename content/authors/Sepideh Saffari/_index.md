@@ -25,7 +25,6 @@ organizations:
 bio: coming soon
 
 interests:
-  - Coming soon 
   - Coming soon
 
 education:
