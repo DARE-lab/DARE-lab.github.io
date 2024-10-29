@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Dr Neha Gupta, one of four directors on the FAIR+CARE cultural heritage network, participated in the first in-person workshop held in California, US. She leads a working group that focuses on the implementation of FAIR+CARE practices in the heritage sector, and in the development of an assessment tool and resources that Tribes, insitutions and researchers can use in their everyday practice.  
+Dr Neha Gupta, one of four directors on the FAIR+CARE cultural heritage network, participated in the first in-person workshop held in California, US. She leads a working group that focuses on the implementation of FAIR+CARE practices in the heritage sector, and in the development of an assessment tool and resources that Tribes, institutions and researchers can use in their everyday practice.  
 
 <!--more-->
 
