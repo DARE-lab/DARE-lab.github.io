@@ -23,7 +23,37 @@ sections:
         align: left
         background:
           image:
-            filename: contact.png
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Mentoring
+        content: 'Get mentoring support from group members and share your experiences'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Community Data Governance
+        content: 'Learn how to enact data governance principles when working with communities'
+        align: left
+        background:
+          image:
+            filename: data-gov.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Anti-Racim
+        content: 'Contribute to anti-racism work and initiatives in the lab and broader community'
+        align: left
+        background:
+          image:
+            filename: uad.png
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +63,7 @@ sections:
         align: right
         background:
           image:
-            filename: uad.png
+            filename: maps.gif
             filters:
               brightness: 0.5
           position: center

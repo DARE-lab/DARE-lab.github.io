@@ -18,7 +18,7 @@ abstract: In her talk, Dr. Ahmed explores how diversity is increasingly framed a
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-11-20T09:00:00Z'
-date_end: '2024-11-20T17:00:00Z'
+date_end: '2024-11-20T11:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
