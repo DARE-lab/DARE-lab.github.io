@@ -63,7 +63,7 @@ sections:
         align: right
         background:
           image:
-            filename: maps.gif
+            filename: maps.jpg
             filters:
               brightness: 0.5
           position: center
