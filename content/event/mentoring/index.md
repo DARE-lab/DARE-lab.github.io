@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-10-24T00:00:00Z'
 
-authors: [Neha Gupta]
+authors: [IBRac Women Mentoring Collective]
 tags: [Anti-racism]
 
 # Is this a featured talk? (true/false)
