@@ -48,7 +48,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Anti-Racim
+      - title: Anti-Racism
         content: 'Contribute to anti-racism work and initiatives in the lab and broader community'
         align: left
         background:
