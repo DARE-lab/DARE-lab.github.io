@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Shiva Natarajan
+title: Aiden Dacyk
 
 # Full name (for SEO)
-first_name: Shiva
-last_name: Natarajan
+first_name: Aiden
+last_name: Dacyk
 
 # Username (this should match the folder name)
 authors:
-  - Shiva Natarajan
+  - Aiden Dacyk
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,17 +22,22 @@ organizations:
     url: ''
     
 # Short bio (displayed in user profile at end of posts)
-bio: coming soon
+bio: Coming soon
 
 interests:
-  - Coming soon 
-  - Coming soon
+  - Archaeology
 
 education:
   courses:
-    - course: BA (Hons) in Psychology
+    - course: BA in Anthropology 
       institution: University of British Columbia, Okanagan
-      year: 2024
+      year: est. 2026
+    - course: 
+      institution:
+      year: 
+    - course: 
+      institution: 
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: ''
   - icon: twitter
     icon_pack: fab
     link: ''
@@ -66,4 +71,3 @@ user_groups:
   - Grad Students
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

@@ -15,7 +15,7 @@ sections:
           image:
             filename: no-motif.png
             filters:
-              brightness: 0.7
+              brightness: 0.4
           position: right
           color: '#666'
       - title: Hands-on Learning
@@ -38,7 +38,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Community Data Governance
+      - title: Data Governance
         content: 'Learn how to enact data governance principles when working with communities'
         align: left
         background:
@@ -46,7 +46,7 @@ sections:
             filename: data-gov.png
             filters:
               brightness: 0.7
-          position: center
+          position: right
           color: '#555'
       - title: Anti-Racism
         content: 'Contribute to anti-racism work and initiatives in the lab and broader community'
@@ -66,7 +66,7 @@ sections:
             filename: maps.jpg
             filters:
               brightness: 0.5
-          position: center
+          position: right
           color: '#333'
         link:
           icon: graduation-cap
@@ -76,7 +76,7 @@ sections:
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
-      is_fullscreen: true
+      is_fullscreen: false
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
