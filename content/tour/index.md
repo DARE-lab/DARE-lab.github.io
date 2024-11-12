@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to our research space
+      - title: 👋🏾 Welcome to our research space
         content: Take a look at what we're working on...
         align: center
         background:
