@@ -1,38 +1,43 @@
 ---
 # Display name
-title: Davood Hasanzadeharanchi
+title: Makenzie Wellerdt
 
 # Full name (for SEO)
-first_name: Davood
-last_name: Hasanzadeharanchi
+first_name: Makenzie
+last_name: Wellerdt
 
 # Username (this should match the folder name)
 authors:
-  - Davood Hasanzadeharanchi
+  - Makenzie Wellerdt
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: University of British Columbia, Okanagan, Interdisciplinary Graduate Studies, Digital Arts and Humanities
+  - name: University of British Columbia, Okanagan
     url: ''
     
 # Short bio (displayed in user profile at end of posts)
-bio: coming soon
+bio: Coming soon
 
 interests:
-  - Coming soon 
-  - Coming soon
+  - Archaeology
 
 education:
   courses:
-    - course: MA in Geography and Urban Planning
-      institution: University of Tehran, Iran
-      year: 2020
+    - course: BA in Anthropology 
+      institution: University of British Columbia, Okanagan
+      year: est. 2025
+    - course: 
+      institution:
+      year: 
+    - course: 
+      institution: 
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: ''
   - icon: twitter
     icon_pack: fab
     link: ''
@@ -65,4 +70,4 @@ email: ''
 user_groups:
   - Students
 ---
- 
+
