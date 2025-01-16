@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -25,8 +25,8 @@ organizations:
 bio: coming soon
 
 interests:
-  - Coming soon 
-  - Coming soon
+  - Data Science
+  - Medicine
 
 education:
   courses:
@@ -63,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Researchers
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
