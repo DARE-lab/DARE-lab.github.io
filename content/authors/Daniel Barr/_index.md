@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Veer Ramrakhiani
+title: Daniel Barr
 
 # Full name (for SEO)
-first_name: Veer
-last_name: Ramrakhiani
+first_name: Daniel
+last_name: Barr
 
 # Username (this should match the folder name)
 authors:
-  - Veer Ramrakhiani
+  - Daniel Barr
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,14 +25,13 @@ organizations:
 bio: Coming soon
 
 interests:
-  - Computer Science
-  - Anthropology
+  - Psychology
 
 education:
   courses:
-    - course: BSc in Computer Science
+    - course: B.Sc. in Psychology
       institution: University of British Columbia, Okanagan
-      year: est. 2026
+      year: 2024
     - course: 
       institution:
       year: 
