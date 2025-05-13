@@ -14,24 +14,24 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-  - name: University of British Columbia, Okanagan, Interdisciplinary Graduate Studies, Digital Arts and Humanities
-    url: ''
+  - name: University of Regina
+    url: 'https://www.uregina.ca/media-art-performance/directory/bavi-ahlam.html'
     
 # Short bio (displayed in user profile at end of posts)
-bio: coming soon
+bio: Ahlam Bavi is an industrial designer, digital artist, and design educator specializing in digital design, cultural heritage preservation and accessibility. With expertise in 3D technologies, computational generative design, and digital humanities research, she's dedicated to making heritage more accessible, particularly for Indigenous peoples and marginalized communities. As a visual artist, she utilizes 3D printing to craft captivating sculptures, while as an educator, she empowers students with digital media and gamification skills, employing creative thinking and user-centred design methods. Through innovative approaches like 3D printing and interactive media, Ahlam fosters inclusivity and engagement among diverse audiences, striving for a world without barriers.
 
 interests:
-  - Coming soon
+  - 
 
 education:
   courses:
-    - course: MA in Art Studies
-      institution: Azad University of Tehran, Iran
-      year: 2014
+    - course: PhD in Interdisciplinary Studies
+      institution: University of British Columbia, Okanagan
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -62,7 +62,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Researchers
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
