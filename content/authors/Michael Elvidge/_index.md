@@ -18,24 +18,24 @@ role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-  - name: University of British Columbia, Okanagan
+  - name: Cabin Resource Management
     url: ''
-    
+
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Indigenous Data Governance, Digital Archaeology, and Landscape Archaeology and their relationship to commercial archaeological practice. 
+bio: My research interests include Indigenous Data Governance, Digital Archaeology, and Landscape Archaeology and their relationship to commercial archaeological practice.
 
 interests:
-  - Indigenous Data Governance 
+  - Indigenous Data Governance
   - Digital Archaeology
   - Landscape Archaeology
 
 education:
   courses:
-    - course: MA in Interdisciplinary Graduate Studies 
+    - course: MA in Interdisciplinary Graduate Studies
       institution: University of British Columbia, Okanagan
       year: 2024
-    - course: BA (Hons) in Archaeology 
-      institution: Simon Fraser University 
+    - course: BA (Hons) in Archaeology
+      institution: Simon Fraser University
       year: 2013
     - course: Certificate in Cultural Resource Management
       institution: Simon Fraser University
@@ -71,6 +71,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+
 ---
 
 Michael has eleven years of consulting archaeology experience and completed his MA degree under supervision of Dr. Neha Gupta at the University of British Columbia’s Okanagan campus in the Interdisciplinary Graduate Studies program. He currently manages Cabin Resource Management’s Heritage Division. He is a Registered Professional Consulting Archaeologist (RPCA) and is an experienced Permit Holder and Project Manager in the Interior Plateau and the Sub-Boreal Forest cultural areas and primarily operates within syilx and Secwépemc traditional territories. In his Master's research, Michael worked with the Westbank First Nation Archaeology Office to evaluate commercial archaeological practices within Westbank’s Area of Responsibility. Michael’s particular interests are in the archaeology of the Southern Interior, decolonial archaeological method and theory, Digital Archaeology, Indigenous Data Governance, remote sensing and geophysics, geoarchaeology, lithic technology, geochemistry, and landscape archaeology.
