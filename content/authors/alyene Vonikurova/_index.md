@@ -1,43 +1,38 @@
 ---
 # Display name
-title: Makenzie Wellerdt
+title: alyene Vonikurova
 
 # Full name (for SEO)
-first_name: Makenzie
-last_name: Wellerdt
+first_name: alyene
+last_name: Vonikurova
 
 # Username (this should match the folder name)
 authors:
-  - Makenzie Wellerdt
+  - alyene Vonikurova
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of British Columbia, Okanagan
+  - name: University of British Columbia, Okanagan, Interdisciplinary Graduate Studies, Digital Arts and Humanities
     url: ''
     
 # Short bio (displayed in user profile at end of posts)
-bio: Coming soon
+bio: coming soon
 
 interests:
-  - Archaeology
+  - Coming soon 
+  - Coming soon
 
 education:
   courses:
-    - course: BA in Anthropology 
-      institution: University of British Columbia, Okanagan
-      year: 2025
-    - course: 
-      institution:
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: MFA 
+      institution: Hogeschool voor de Kunsten Utrecht, Netherlands
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'mailto:'
   - icon: twitter
     icon_pack: fab
     link: ''
@@ -68,6 +63,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Students
 ---
-
+ 

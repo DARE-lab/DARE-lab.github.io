@@ -18,7 +18,7 @@ role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-  - name: University of British Columbia, Okanagan, Interdisciplinary Graduate Studies, Digital Arts and Humanities
+  - name: University of British Columbia, Okanagan
     url: ''
     
 # Short bio (displayed in user profile at end of posts)
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:melvidge@student(dot)ubc(dot)ca'
+    link: 'mailto:'
   - icon: twitter
     icon_pack: fab
     link: ''
@@ -73,6 +73,4 @@ user_groups:
   - Researchers
 ---
 
-Michael has eleven years of consulting archaeology experience and is currently enrolled at the University of British Columbia’s Okanagan campus in the Interdisciplinary Graduate Studies program and manages Cabin Resource Management’s Heritage Division. He is a Registered Professional Consulting Archaeologist (RPCA) and is an experienced Permit Holder and Project Manager in the Interior Plateau and the Sub-Boreal Forest cultural areas and primarily operates within syilx and Secwépemc traditional territories. 
-
-Currently, Michael is working under the supervision of Dr. Neha Gupta and with the Westbank First Nation Archaeology Office to evaluate commercial archaeological practices within Westbank’s Area of Responsibility. Michael’s particular interests are in the archaeology of the Southern Interior, decolonial archaeological method and theory, Digital Archaeology, Indigenous Data Governance, remote sensing and geophysics, geoarchaeology, lithic technology, geochemistry, and landscape archaeology. 
+Michael has eleven years of consulting archaeology experience and completed his MA degree under supervision of Dr. Neha Gupta at the University of British Columbia’s Okanagan campus in the Interdisciplinary Graduate Studies program. He currently manages Cabin Resource Management’s Heritage Division. He is a Registered Professional Consulting Archaeologist (RPCA) and is an experienced Permit Holder and Project Manager in the Interior Plateau and the Sub-Boreal Forest cultural areas and primarily operates within syilx and Secwépemc traditional territories. In his Master's research, Michael worked with the Westbank First Nation Archaeology Office to evaluate commercial archaeological practices within Westbank’s Area of Responsibility. Michael’s particular interests are in the archaeology of the Southern Interior, decolonial archaeological method and theory, Digital Archaeology, Indigenous Data Governance, remote sensing and geophysics, geoarchaeology, lithic technology, geochemistry, and landscape archaeology.
