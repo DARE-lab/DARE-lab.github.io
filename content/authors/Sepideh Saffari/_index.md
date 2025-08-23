@@ -18,11 +18,11 @@ role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-  - name: Archiart
+  - name: University of British Columbia, Okanagan
     url: 'https://thearchiart.com/'
     
 # Short bio (displayed in user profile at end of posts)
-bio: I am an interdisciplinary designer, digital artist, and architect with expertise in spatial/exhibition design, digital arts, and visual communication (graphic design, illustration, and UI/UX design). My work blends storytelling, functionality, and aesthetics to create immersive spaces and digital experiences. I am an Research Assistant Tech at the lab. I designed the DARE lab logo. Check out my portfolio [Archiart](https://thearchiart.com/)
+bio: 
 
 interests:
   - Coming soon
@@ -67,3 +67,5 @@ email: ''
 user_groups:
   - Researchers
 ---
+
+Sepideh is an interdisciplinary designer, digital artist, and architect with expertise in spatial/exhibition design, digital arts, and visual communication (graphic design, illustration, and UI/UX design). Her work blends storytelling, functionality, and aesthetics to create immersive spaces and digital experiences. She is an Research Assistant Tech at the lab. She designed the DARE lab logo. Check out her portfolio [Archiart](https://thearchiart.com/)

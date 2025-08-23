@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Indigenous Data Governance, Digital Archaeology, and Landscape Archaeology and their relationship to commercial archaeological practice.
+bio: 
 
 interests:
   - Indigenous Data Governance

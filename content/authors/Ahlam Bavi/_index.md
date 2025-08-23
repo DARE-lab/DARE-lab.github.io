@@ -19,10 +19,10 @@ role: Research Associate
 # Organizations/Affiliations
 organizations:
   - name: University of Regina
-    url: ''
+    url: 'https://www.uregina.ca/media-art-performance/directory/bavi-ahlam.html'
     
 # Short bio (displayed in user profile at end of posts)
-bio: Ahlam Bavi is an Assistant Professor at the University of Regina. She is an industrial designer, digital artist, and design educator specializing in digital design, cultural heritage preservation and accessibility. She was a Research Assistant at the lab working on digital storymaps.
+bio: 
 
 interests:
   - 
@@ -65,4 +65,4 @@ user_groups:
   - Researchers
 ---
 
-With expertise in 3D technologies, computational generative design, and digital humanities research, Ahlam is dedicated to making heritage more accessible, particularly for Indigenous peoples and marginalized communities. As a visual artist, she utilizes 3D printing to craft captivating sculptures, while as an educator, she empowers students with digital media and gamification skills, employing creative thinking and user-centred design methods. Through innovative approaches like 3D printing and interactive media, Ahlam fosters inclusivity and engagement among diverse audiences, striving for a world without barriers. She is now based at the [University of Regina](https://www.uregina.ca/media-art-performance/directory/bavi-ahlam.html).
+Ahlam Bavi is an Assistant Professor at the University of Regina. She is an industrial designer, digital artist, and design educator specializing in digital design, cultural heritage preservation and accessibility. She was a Research Assistant at the lab working on digital storymaps. With expertise in 3D technologies, computational generative design, and digital humanities research, Ahlam is dedicated to making heritage more accessible, particularly for Indigenous peoples and marginalized communities. As a visual artist, she utilizes 3D printing to craft captivating sculptures, while as an educator, she empowers students with digital media and gamification skills, employing creative thinking and user-centred design methods. Through innovative approaches like 3D printing and interactive media, Ahlam fosters inclusivity and engagement among diverse audiences, striving for a world without barriers. She is now based at the [University of Regina](https://www.uregina.ca/media-art-performance/directory/bavi-ahlam.html).

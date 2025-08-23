@@ -22,7 +22,7 @@ organizations:
     url: ''
     
 # Short bio (displayed in user profile at end of posts)
-bio: Shiva is currently pursing Medical training. He was a Research Assistant at the lab and worked on the United Against Discrimination project. 
+bio:  
 
 interests:
   - Data Science
@@ -66,3 +66,4 @@ user_groups:
   - Researchers
 ---
 
+Shiva is currently pursing medical training. He was a Research Assistant at the lab and worked on the United Against Discrimination project.
