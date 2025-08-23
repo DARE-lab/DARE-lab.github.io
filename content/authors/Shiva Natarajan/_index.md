@@ -63,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Research Associates
 ---
 
-Shiva is currently pursing medical training. He was a Research Assistant at the lab and worked on the United Against Discrimination project.
+Shiva is currently pursing medical training. He was a Research Assistant at the lab and worked on the United Against Discrimination project. He continues to provide assistance on the project.
