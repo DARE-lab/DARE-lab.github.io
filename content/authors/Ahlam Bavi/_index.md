@@ -22,7 +22,7 @@ organizations:
     url: 'https://www.uregina.ca/media-art-performance/directory/bavi-ahlam.html'
     
 # Short bio (displayed in user profile at end of posts)
-bio: Ahlam Bavi is an industrial designer, digital artist, and design educator specializing in digital design, cultural heritage preservation and accessibility. With expertise in 3D technologies, computational generative design, and digital humanities research, she's dedicated to making heritage more accessible, particularly for Indigenous peoples and marginalized communities. As a visual artist, she utilizes 3D printing to craft captivating sculptures, while as an educator, she empowers students with digital media and gamification skills, employing creative thinking and user-centred design methods. Through innovative approaches like 3D printing and interactive media, Ahlam fosters inclusivity and engagement among diverse audiences, striving for a world without barriers.
+bio: Ahlam Bavi is an Assistant Professor at the University of Regina. She is an industrial designer, digital artist, and design educator specializing in digital design, cultural heritage preservation and accessibility.
 
 interests:
   - 
@@ -65,4 +65,4 @@ user_groups:
   - Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+With expertise in 3D technologies, computational generative design, and digital humanities research, Ahlam is dedicated to making heritage more accessible, particularly for Indigenous peoples and marginalized communities. As a visual artist, she utilizes 3D printing to craft captivating sculptures, while as an educator, she empowers students with digital media and gamification skills, employing creative thinking and user-centred design methods. Through innovative approaches like 3D printing and interactive media, Ahlam fosters inclusivity and engagement among diverse audiences, striving for a world without barriers. She was a Research Assistant at the DARE lab.
