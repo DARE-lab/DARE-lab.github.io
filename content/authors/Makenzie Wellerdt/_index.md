@@ -32,12 +32,12 @@ education:
     - course: BA in Anthropology 
       institution: University of British Columbia, Okanagan
       year: 2025
-    - course: 
+    - course:
       institution:
-      year: 
-    - course: 
-      institution: 
-      year: 
+      year:
+    - course:
+      institution:
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -71,3 +71,4 @@ user_groups:
   - Researchers
 ---
 
+Mackenzie is currently working in a cultural resource management company in the Okanagan. She was a Research Assistant at the DARE lab, focusing on strategies for cataloguing and managing a diverse collection of archaeological materials.
