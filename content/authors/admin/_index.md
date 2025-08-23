@@ -11,7 +11,7 @@ authors:
   - admin
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Assistant Professor, Anthropology
@@ -19,10 +19,10 @@ role: Assistant Professor, Anthropology
 # Organizations/Affiliations
 organizations:
   - name: University of British Columbia, Okanagan
-    url: ''
+    url: 'dngupta.github.io'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include geovisualization and GIS, place-based heritage, data practice, community governance of data, anti-racism and archaeology in India and Canada.
+bio: []
 
 interests:
   - Geospatial and Digital Methods
