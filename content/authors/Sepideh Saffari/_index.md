@@ -18,11 +18,11 @@ role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-  - name: University of British Columbia, Okanagan
+  - name: Archiart
     url: 'https://thearchiart.com/'
     
 # Short bio (displayed in user profile at end of posts)
-bio: coming soon
+bio: I am an interdisciplinary designer, digital artist, and architect with expertise in spatial/exhibition design, digital arts, and visual communication (graphic design, illustration, and UI/UX design). My work blends storytelling, functionality, and aesthetics to create immersive spaces and digital experiences. I am an Research Assistant Tech at the lab. I designed the DARE lab logo. Check out my portfolio [Archiart](https://thearchiart.com/)
 
 interests:
   - Coming soon
@@ -67,5 +67,3 @@ email: ''
 user_groups:
   - Researchers
 ---
-
-I am an interdisciplinary designer, digital artist, and architect with expertise in spatial/exhibition design, digital arts, and visual communication (graphic design, illustration, and UI/UX design). My work blends storytelling, functionality, and aesthetics to create immersive spaces and digital experiences. I am an Research Assistant Tech at the lab. I designed the DARE lab logo. Check out my portfolio [Archiart](https://thearchiart.com/)
