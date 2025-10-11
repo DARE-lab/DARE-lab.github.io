@@ -22,7 +22,7 @@ organizations:
     url: ''
     
 # Short bio (displayed in user profile at end of posts)
-bio: Coming soon
+bio: []
 
 interests:
   - Archaeology
@@ -32,12 +32,7 @@ education:
     - course: BA in Anthropology 
       institution: University of British Columbia, Okanagan
       year: 2025
-    - course:
-      institution:
-      year:
-    - course:
-      institution:
-      year:
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -68,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Research Associates
 ---
 
 Mackenzie is currently working in a cultural resource management company in the Okanagan. She was a Research Assistant at the DARE lab, focusing on strategies for cataloguing and managing a diverse collection of archaeological materials.

@@ -65,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Research Associates
 ---
 
 Sepideh is an interdisciplinary designer, digital artist, and architect with expertise in spatial/exhibition design, digital arts, and visual communication (graphic design, illustration, and UI/UX design). Her work blends storytelling, functionality, and aesthetics to create immersive spaces and digital experiences. She is an Research Assistant Tech at the lab. She designed the DARE lab logo. Check out her portfolio [Archiart](https://thearchiart.com/)
