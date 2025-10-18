@@ -18,7 +18,7 @@ abstract: This webinar presents ongoing work by the FAIR+CARE Cultural Heritage 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-08-14T15:00:00Z'
-date_end: '2025-08-15T16:30:00Z'
+date_end: '2025-08-14T16:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
