@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Aiden Dacyk
+title: Nimrit Mangat
 
 # Full name (for SEO)
-first_name: Aiden
-last_name: Dacyk
+first_name: Nimrit
+last_name: Mangat
 
 # Username (this should match the folder name)
 authors:
-  - Aiden Dacyk
+  - Nimrit Mangat
 
 # Is this the primary user of the site?
 superuser: false
@@ -68,6 +68,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Associates
+  - Students
 ---
 
