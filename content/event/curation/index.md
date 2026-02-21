@@ -18,7 +18,7 @@ abstract: In this presentation, Dr Neha Gupta presents insights from the FAIR+CA
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2026-02-06'
-date_end: '2025-02-06'
+date_end: '2026-02-06'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
