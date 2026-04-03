@@ -2,7 +2,7 @@
 title: Publication of Community Research Data Toolkit
 date: 2025-10-17
 image:
-  focal_point: 'top'
+  focal_point: 'center'
 ---
 
 Congratulations to Dr Neha Gupta on her contribution to the recently launched Community Research Data Toolkit, edited by Danica Evering and Subhanya Sivajothy and published by the McMaster University Libraries. 
