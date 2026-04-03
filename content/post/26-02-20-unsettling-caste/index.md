@@ -2,7 +2,7 @@
 title: Unsettling Caste, Power and Belonging on Stolen Land
 date: 2026-02-20
 image:
-  focal_point: 'center'
+  focal_point: 'top'
 ---
 
 Anita Lal (Poetic Justice Foundation), Dr Neha Gupta (UBC Okanagan) and Dr Sharanjit Kaur Sandhra (Belonging Matters) are continuing the conversation on caste in Canada in the second event of the [Community-University Engagement Support](https://communityengagement.ubc.ca/news/meet-the-2025-recipients-of-ubcs-community-university-engagement-support-fund/) project at the UBC Okanagan campus. 
