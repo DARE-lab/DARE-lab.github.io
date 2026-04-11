@@ -2,7 +2,7 @@
 title: Principled Practice of Archaeology
 date: 2026-04-01
 image:
-  focal_point: 'center'
+  focal_point: 'left'
 ---
 
 Dr Neha Gupta will work with Dr Holly Wright at the University of York, UK, on developing a framework for digital data in the practice of archaeology through the FAIR, CARE and GREENER Principles. Funding for this seed grant comes from the SSHRC Destination Horizon and The University of British Columbia. 
