@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.png
+            filename: digital-exhibit.png
             filters:
               brightness: 0.7
           position: center
@@ -39,7 +39,7 @@ sections:
           position: center
           color: '#555'
       - title: Data Governance
-        content: 'Learn how to enact data governance principles when working with communities'
+        content: 'Learn how to enact data governance principles when working with Indigenous Peoples and descendant communities'
         align: left
         background:
           image:
