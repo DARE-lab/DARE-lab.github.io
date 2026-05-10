@@ -9,7 +9,7 @@ address:
   street: 
   city: Saskatoon
   region: SK
-  postcode: ''
+  postcode: 
   country: Canada
 
 summary: Session Organizer, Engaging Black and Racialized Descendant Communities with Archaeology and Heritage Projects, held at the Canadian Archaeological Association meetings, 2024
@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2024-01-01T00:00:00Z'
 
 authors: [Neha Gupta; Tommy Ng; John Somogyi]
-tags: [Anti-racism]
+tags: [Anti-racism; Heritage]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -38,7 +38,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/archaeomap
+    url: https://bsky.app/profile/archaeomap.bsky.social
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -58,4 +58,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
   - Anti-racism
+  - Heritage
 ---
