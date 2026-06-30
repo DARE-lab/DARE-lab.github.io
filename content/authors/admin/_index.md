@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor, Anthropology
+role: Associate Professor, Anthropology
 
 # Organizations/Affiliations
 organizations:
@@ -76,4 +76,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Neha Gupta is a professor of anthropology at DARE. Her research interests include geospatial and digital methods, postcolonial, decolonial, anti-colonial and Indigenous studies of heritage, anti-racism, data governance and archaeology in India and Canada. She leads DARE, which examines, builds and develops anti-colonial, anti-racist digital and geospatial methods, tools, technologies, pedagogies, policies and practices, particularly in heritage and social sciences research.
+Neha Gupta is an associate professor of anthropology at DARE. Her research interests include geospatial and digital methods, postcolonial, decolonial, anti-colonial and Indigenous studies of archaeology and heritage, anti-racism, data governance and archaeology in India and Canada. She leads DARE, which examines, designs anti-colonial, anti-racist digital and geospatial methodologies, tools, technologies, pedagogies, policies and practices, particularly in digital heritage and social sciences research.
