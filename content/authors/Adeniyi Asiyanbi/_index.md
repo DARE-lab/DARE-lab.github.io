@@ -22,10 +22,10 @@ organizations:
     url: 'https://ccgs.ok.ubc.ca/about/contact/adeniyi-p-asiyanbi/'
     
 # Short bio (displayed in user profile at end of posts)
-bio: []
+bio: ''
 
 interests:
-  - []
+  - ''
 
 education:
   courses:
