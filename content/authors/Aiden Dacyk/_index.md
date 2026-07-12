@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -32,12 +32,6 @@ education:
     - course: BA in Anthropology 
       institution: University of British Columbia, Okanagan
       year: est. 2027
-    - course: 
-      institution:
-      year: 
-    - course: 
-      institution: 
-      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
