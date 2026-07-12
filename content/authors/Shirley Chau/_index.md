@@ -22,10 +22,10 @@ organizations:
     url: 'https://socialwork.ok.ubc.ca/about/contact/shirley-chau/'
     
 # Short bio (displayed in user profile at end of posts)
-bio: coming soon
+bio: []
 
 interests:
-  - Coming soon 
+  - []
 
 education:
   courses:

@@ -22,11 +22,10 @@ organizations:
     url: ''
     
 # Short bio (displayed in user profile at end of posts)
-bio: coming soon
+bio: []
 
 interests:
-  - Coming soon 
-  - Coming soon
+  - []
 
 education:
   courses:
