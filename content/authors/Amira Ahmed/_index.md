@@ -22,7 +22,7 @@ organizations:
     url: 'https://migration.ubc.ca/profile/amira-mahmoud-shaban-ahmed/'
     
 # Short bio (displayed in user profile at end of posts)
-bio: Amira is an interdisciplinary scholar with a background in mass communication. Her PhD research examined how digital heritage storytelling advances the practice of global citizenship in higher education. Integrating media analysis, project creation, and multidisciplinary educators’ insights, her research pointed to process-driven, locally grounded approaches that foster experiential global, cultural, and historical learning.
+bio: Dr. Ahmed is an interdisciplinary scholar with a background in mass communication. Her PhD research examined how digital heritage storytelling advances the practice of global citizenship in higher education. Integrating media analysis, project creation, and multidisciplinary educators’ insights, her research pointed to process-driven, locally grounded approaches that foster experiential global, cultural, and historical learning.
 
 interests:
   - Digital Humanities
@@ -68,4 +68,4 @@ user_groups:
   - Research Associates
 ---
 
-Amira Ahmed is a Research Associate in the DARE lab. Her PhD research focused on digital heritage storytelling and its implications for global citizenship education and intercultural communication. She investigated how implementing digital storytelling experiences focusing on cultural heritage can be used as creative and practical methodologies to enhance global citizenship in higher education. In the DARE lab, Amira will work with Dr Neha Gupta on research projects in archaeology and digital heritage and expand her methodological skills in this field.
+Dr. Ahmed is a Research Associate in the DARE lab. Her PhD research focused on digital heritage storytelling and its implications for global citizenship education and intercultural communication. She investigated how implementing digital storytelling experiences focusing on cultural heritage can be used as creative and practical methodologies to enhance global citizenship in higher education. In the DARE lab, Amira will work with Dr Neha Gupta on research projects in archaeology and digital heritage and expand her methodological skills in this fieldes
